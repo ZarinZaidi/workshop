@@ -1,1 +1,1 @@
-alert("Let's go")alert("new project")
+alert("Let's go")
